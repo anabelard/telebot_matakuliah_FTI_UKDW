@@ -1,0 +1,14 @@
+grup
+grup_kelas
+
+matakuliah
+nama_matakuliah
+
+pertemuan
+pertemuan_ke
+
+tugas
+nama_tugas
+
+waktu
+jangka_waktu, waktu_hari

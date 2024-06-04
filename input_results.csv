@@ -1,0 +1,112 @@
+Text,Predicted Intent,True Intent
+list matakuliah,daftar_kelas,daftar_kelas
+tugas saya apa aja?,daftar_tugas,daftar_tugas
+pengumuman mata kuliah statistik,cek_pengumuman_matakuliah,cek_pengumuman_matakuliah
+ada tugas apa saja?,daftar_tugas,daftar_tugas
+deadline tugas yang terdekat,deadline_tugas_terdekat,deadline_tugas_terdekat
+sudah mengumpulkan tas praktikum algoritma?,,cek_status_pengumpulan_tugas
+pengumuman yang masih ada?,daftar_pengumuman,daftar_pengumuman
+tampilkan tugas tugas saya,daftar_tugas,daftar_tugas
+tugas dengan deadline terdekat,deadline_tugas_terdekat,deadline_tugas_terdekat
+minggu ini ada tugas apa saja,tugas_minggu_ini,tugas_minggu_ini
+deadline tugas 4 statistik,deadline_tugas_matakuliah,deadline_tugas_matakuliah
+tugas baru statistik,tugas_terbaru_matakuliah,tugas_terbaru_matakuliah
+cek status pengumpulan tugas laporan 1 prakAlpro,deadline_tugas_matakuliah,cek_status_pengumpulan_tugas
+apakah saya sudah menumpulkan tugas laporan 1 prakAlpro,cek_tugas_belum_dikumpulkan,cek_status_pengumpulan_tugas
+apakah saya sudah mengunpulkan tugas 2 matdis,,cek_status_pengumpulan_tugas
+apakah saya sudah mengumpulkan tugas 2 matematika diskrit B,cek_status_pengumpulan_tugas,cek_status_pengumpulan_tugas
+list tugas,daftar_tugas,daftar_tugas
+list pengumuman,daftar_pengumuman,daftar_pengumuman
+pengumuman terbaru matdis,pengumuman_terbaru_matakuliah,pengumuman_terbaru_matakuliah
+topik pembelajaran matdis,,cek_materi_matakuliah
+materi pembelajaran matdis,cek_materi_matakuliah,cek_materi_matakuliah
+materi matdis minggu depan,,cek_materi_terdekat_matakuliah
+materi matematika diskrit minggu depan,cek_materi_matakuliah,cek_materi_terdekat_matakuliah
+materi matematika diskrit sebelumnya,,cek_materi_terdekat_matakuliah
+materi matematika diskrit di pertemuan sebelumnya,,cek_materi_terdekat_matakuliah
+apa materi alpro di pertemuan selanjutnya,cek_materi_terdekat_matakuliah,cek_materi_terdekat_matakuliah
+list file materi matematika diskrit,,file_materi
+tampilkan file materi matematika diskrit,file_materi,file_materi
+hari ini kelas apa,kelas_hari_ini,kelas_hari_ini
+persentase presensi di matematika diskrit,cek_presensi,cek_presensi
+sistem penilaian di matdis,sistem_penilaian,sistem_penilaian
+Tugas saya apa saja?,daftar_tugas,daftar_tugas
+Deadline tugasku yang terdekat apa ya?,deadline_tugas_hari_ini,deadline_tugas_terdekat
+Apa aja tugas yang deadlinenya minggu ini?,deadline_tugas_minggu_ini,deadline_tugas_minggu_ini
+Deadline tugas laporan 2 praktikum algoritma dan pemrograman kapan ya?,deadline_tugas_matakuliah,deadline_tugas_matakuliah
+apa tugas ku,daftar_tugas,daftar_tugas
+Tugas alpro ada yang baru ga?,,tugas_terbaru_matakuliah
+apa tgs ku,sapaan,daftar_tugas
+AlPro ada tugas yang terbaru??,tugas_terbaru_matakuliah,tugas_terbaru_matakuliah
+Saya sudah ngumpulin tugas 1 alpro???,cek_status_pengumpulan_tugas,cek_status_pengumpulan_tugas
+deadline tugas,deadline_tugas_terdekat,daftar_tugas
+Nilai tugas 1 alpro berapa ya?,cek_nilai_tugas,cek_nilai_tugas
+tugas terdekat,deadline_tugas_terdekat,deadline_tugas_terdekat
+tugas deadline minggu,,deadline_tugas_minggu_ini
+Apa aja pengumuman yang ada?,daftar_pengumuman,daftar_pengumuman
+berapa nilai tugas Statistik saya,cek_nilai_tugas,cek_nilai_tugas
+AlPro ada pengumuman apa aja?,,cek_pengumuman_matakuliah
+berapa nilai tugas matematika diskrit saya,cek_nilai_tugas,cek_nilai_tugas
+AlPro ada pengumuman terbaru?,pengumuman_terbaru_matakuliah,pengumuman_terbaru_matakuliah
+pengunguman yang ada,sapaan,daftar_pengumuman
+Apa aja materi matdis?,cek_materi_matakuliah,cek_materi_matakuliah
+apa aja topik yang dibahas di alpro,cek_materi_matakuliah,cek_materi_matakuliah
+kelas saya hari ini apa aja,kelas_hari_ini,kelas_hari_ini
+Apa materi terdekat matdis?,cek_materi_terdekat_matakuliah,cek_materi_terdekat_matakuliah
+Tampilin materi matdis,cek_materi_matakuliah,cek_materi_matakuliah
+tugas saya apa?,daftar_tugas,daftar_tugas
+tgs saya apa?,,daftar_tugas
+deadline tugas terdekat saya?,deadline_tugas_terdekat,deadline_tugas_terdekat
+deadline minggu ini?,,deadline_tugas_minggu_ini
+tugas deadline minggu ini?,deadline_tugas_minggu_ini,deadline_tugas_minggu_ini
+deadline tugas 3 statistik kapan ya?,deadline_tugas_matakuliah,deadline_tugas_matakuliah
+prakalpro ada tugas terbaru gak?,tugas_terbaru_matakuliah,tugas_terbaru_matakuliah
+saya sudah kumpul tugas 1 statistik belum ya?,cek_status_pengumpulan_tugas,cek_status_pengumpulan_tugas
+berapa nilai tugas 1 statistik saya?,cek_nilai_tugas,cek_nilai_tugas
+Tugas saya apa aja?,daftar_tugas,daftar_tugas
+Berapa nilai tugas statistik saya,cek_nilai_tugas,cek_nilai_tugas
+apa saja pengumuman yang ada?,daftar_pengumuman,daftar_pengumuman
+apa pengumuman terbaru?,pengumuman_terbaru,pengumuman_terbaru
+apa pengumuman terbaru dari statistik?,,pengumuman_terbaru_matakuliah
+apa pengumuman terbaru dari prakalpro?,pengumuman_terbaru_matakuliah,pengumuman_terbaru_matakuliah
+apa saja topik yang dibahas di alpro?,,cek_materi_matakuliah
+apa aja topik yang dibahas di alpro?,,cek_materi_matakuliah
+apa materi alpro di pertemuan selanjutnya?,cek_materi_terdekat_matakuliah,cek_materi_terdekat_matakuliah
+tampilkan file materi statistik,file_materi,file_materi
+kelas saya hari ini apa saja>,kelas_hari_ini,kelas_hari_ini
+bagaimana presensi saya di matkul prakalpro?,cek_presensi,cek_presensi
+bagaimana sistem penilaian di matkul statistik?,sistem_penilaian,sistem_penilaian
+Tugas saya apa aja?,daftar_tugas,daftar_tugas
+Deadline tugasku yang terdekat apa aja?,,deadline_tugas_terdekat
+Deadline tugasku yang terdekat apa ya?,deadline_tugas_hari_ini,deadline_tugas_terdekat
+Apa aja tugas yang deadlinenya Minggu ini?,deadline_tugas_minggu_ini,deadline_tugas_minggu_ini
+Deadline tugas 3 statistik kapan ya?,deadline_tugas_matakuliah,deadline_tugas_matakuliah
+Prakalpro ada tugas terbaru gak?,tugas_terbaru_matakuliah,tugas_terbaru_matakuliah
+Saya sudah kumpul tugas 1 statistik belum ya?,cek_status_pengumpulan_tugas,cek_status_pengumpulan_tugas
+Saya sudah kumpul tugas 1 statistik belum ya,cek_status_pengumpulan_tugas,cek_status_pengumpulan_tugas
+Berapa nilai tugas 1 statistik saya,cek_nilai_tugas,cek_nilai_tugas
+Apa aja pengumuman yang ada,daftar_pengumuman,daftar_pengumuman
+Apa pengumuman terbaru,pengumuman_terbaru,pengumuman_terbaru
+Apa pengumuman terbaru dari prakalpro,pengumuman_terbaru_matakuliah,pengumuman_terbaru_matakuliah
+Apa aja topikyang dibahas di alpro,cek_materi_matakuliah,cek_materi_matakuliah
+Apa aja topik yang dibahas di alpro,cek_materi_matakuliah,cek_materi_matakuliah
+Apa materi pertemuan alpro selanjutnya,cek_materi_terdekat_matakuliah,cek_materi_terdekat_matakuliah
+Tampilkan file materi statisik,file_materi,file_materi
+Kelas saya hari ini apa aja?,kelas_hari_ini,kelas_hari_ini
+Bagaimana presensi saya di matkul prakalpro,cek_presensi,cek_presensi
+Bagaimana sistem penilaian di statistik,sistem_penilaian,sistem_penilaian
+apa saja pengumuman yang ada?,daftar_pengumuman,daftar_pengumuman
+jadwal matkul alpro,cek_jadwal_matakuliah,cek_jadwal_matakuliah
+jadwal kuliah matkul statistik,cek_jadwal_matakuliah,cek_jadwal_matakuliah
+jadwal matkul sistem basis data,cek_jadwal_matakuliah,cek_jadwal_matakuliah
+deadline tugas hari ini,deadline_tugas_hari_ini,deadline_tugas_hari_ini
+tugas saya apa,daftar_tugas,daftar_tugas
+deadline tugas saya minggu ini,,deadline_tugas_minggu_ini
+berapa nilai tugas statistik sya,cek_nilai_tugas,cek_nilai_tugas
+apa materi yang dibahas di alpro?,,cek_materi_matakuliah
+apa aja topik yang dibahad di alpro,cek_materi_matakuliah,cek_materi_matakuliah
+tugasku apa?,daftar_tugas,daftar_tugas
+deadline tugas yang paling mendekatu,deadline_tugas_terdekat,deadline_tugas_terdekat
+selain itu ada tugas lagi enggak yang mepet?,daftar_tugas,daftar_tugas
+ada pengumuman tidak?,daftar_pengumuman,daftar_pengumuman
+ada pengumuman paling baru?,pengumuman_terbaru,pengumuman_terbaru
