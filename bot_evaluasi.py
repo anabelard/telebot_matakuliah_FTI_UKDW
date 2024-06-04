@@ -11,8 +11,7 @@ from requests.exceptions import ConnectionError
 import json
 
 # Token bot Telegram dan wit.ai
-# TELEGRAM_TOKEN = '6562824467:AAECsg-6V3CBjDhFC9DqwSl0rtpuvi6iPu8' #CYBOT
-TELEGRAM_TOKEN = '7024311017:AAHSmwVfLiZ7idcoarP14Lkh4UOBbBULP4M' #ECLASSHELPER
+TELEGRAM_TOKEN = '' #ECLASSHELPER
 WIT_AI_TOKEN = 'LEU7WRSP3KQQ6EDDKZFAOMMM7OLAUUUL'
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
